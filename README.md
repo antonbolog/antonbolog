@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Anton 👋
 
-<!--
-**antonbolog/antonbolog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PHP Backend / Full-Stack Developer**
 
-Here are some ideas to get you started:
+PHP Developer with **8+ years of commercial experience** building and maintaining backend systems across B2B SaaS, e-commerce, and education.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced in **Symfony, Laravel, Yii2, API Platform, and WordPress**, with additional experience in **JavaScript, TypeScript, React, and Vue.js**. My work includes API development, third-party integrations, performance optimization, and production support.
+
+Currently applying **AI-assisted, spec-driven development practices** across independent engineering and freelance projects.
+
+### Featured Projects
+
+- [**DDD Example**](https://github.com/antonbolog/ddd-example) — DDD, CQRS, and backend architecture in PHP.
+- [**Ledgerflow API**](https://github.com/antonbolog/ledgerflow-api) — Financial workflows and domain-driven application design.
+
+You can find more projects across PHP and other programming languages in my [repositories](https://github.com/antonbolog?tab=repositories).
+
+**Open to freelance and long-term collaborations** involving web development (landing pages, WordPress websites, and web applications), backend systems, API integrations, AI-powered solutions, and maintenance of existing projects.
+
+More about my work, services, and contact details: **[abolog.dev](https://www.abolog.dev/)**.
