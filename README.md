@@ -1,20 +1,24 @@
-## Hi there, I'm Anton 👋
+# Hi, I'm Anton 👋
 
-**PHP Backend / Full-Stack Developer**
+**PHP Backend / Full-Stack Developer** · Based in Ukraine · Open to remote work
 
-PHP Developer with **8+ years of commercial experience** building and maintaining backend systems across B2B SaaS, e-commerce, and education.
+I build and maintain web projects for businesses, from MVPs and WordPress sites to B2B SaaS and internal systems, with 8+ years of commercial experience in e-commerce, education, finance / ERP, delivery, and hospitality.
 
-Experienced in **Symfony, Laravel, Yii2, API Platform, and WordPress**, with additional experience in **JavaScript, TypeScript, React, and Vue.js**. My work includes API development, third-party integrations, performance optimization, and production support.
+I focus on reliable, maintainable software that solves real business problems, from building new applications to keeping existing PHP systems secure, up to date, and fast.
 
-Currently applying **AI-assisted, spec-driven development practices** across independent engineering and freelance projects.
+---
 
-### Featured Projects
+### What I do
 
-- [**DDD Example**](https://github.com/antonbolog/ddd-example) — DDD, CQRS, and backend architecture in PHP.
-- [**Ledgerflow API**](https://github.com/antonbolog/ledgerflow-api) — Financial workflows and domain-driven application design.
+- **Web Development:** web applications, online stores, B2B SaaS, MVPs, WordPress sites, REST APIs
+- **Modernization:** PHP and framework upgrades, framework migrations, performance optimization
+- **Integrations & Automation:** third-party APIs, AI / LLM integrations, payments, OAuth2 / SSO, workflow automation
+- **Maintenance & Support:** bug fixes, security updates, monitoring, production support
 
-You can find more projects across PHP and other programming languages in my [repositories](https://github.com/antonbolog?tab=repositories).
+### Tech stack
 
-**Open to freelance and long-term collaborations** involving web development (landing pages, WordPress websites, and web applications), backend systems, API integrations, AI-powered solutions, and maintenance of existing projects.
-
-More about my work, services, and contact details: **[abolog.dev](https://www.abolog.dev/)**.
+- **Core:** PHP, Symfony, Laravel, API Platform, Yii2, WordPress
+- **Data & messaging:** MySQL, PostgreSQL, Redis, Elasticsearch, RabbitMQ, AWS SQS
+- **Platform & delivery:** Docker, AWS, Terraform, CI/CD
+- **Frontend:** JavaScript, TypeScript, React / Vue
+- **AI-assisted development:** Claude Code, Codex, Cursor, spec-driven workflow
