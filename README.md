@@ -1,6 +1,6 @@
 # Hi, I'm Anton 👋
 
-**PHP Backend / Full-Stack Developer** · Based in Ukraine · Open to remote work
+**PHP Backend / Full-Stack Developer**
 
 I build and maintain web projects for businesses, from MVPs and WordPress sites to B2B SaaS and internal systems, with 8+ years of commercial experience in e-commerce, education, finance / ERP, delivery, and hospitality.
 
