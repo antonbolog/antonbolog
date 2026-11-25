@@ -4,7 +4,7 @@
 
 I build and maintain web projects for businesses, from MVPs and WordPress sites to B2B SaaS and internal systems, with 8+ years of commercial experience in e-commerce, education, finance / ERP, delivery, and hospitality.
 
-I focus on reliable, maintainable software that solves real business problems, from building new applications to keeping existing PHP systems secure, up to date, and fast.
+I focus on reliable, maintainable software that solves real business problems, from building new applications to keeping existing PHP systems secure, up to date, and fast, enhanced by modern AI-assisted development workflows.
 
 ---
 
